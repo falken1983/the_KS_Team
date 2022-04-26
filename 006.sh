@@ -1,3 +1,4 @@
 #!/bin/bash
-echo "#!/bin/bash" > 005.out
-echo "Hola, mi username es ${USERNAME} y hoy $(date +"%d-%m-%Y")" >> 005.out
+echo "Introduce tu edad: "
+read edad
+echo "Cuando tengas $((edad +5)) de edad, harás la declaración de la renta." > ./006.out
