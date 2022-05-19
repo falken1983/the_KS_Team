@@ -1,6 +1,6 @@
-# the KS Team
-Proyecto Shell del MDS de KSCHOOL
+# The KS Team
+Shell Training Bootcamp of KSCHOOL _MDS_:
+
 1. Lluis
 2. Daniel
 3. Alejandro
-
